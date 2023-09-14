@@ -2,11 +2,14 @@ a{
     text-decoration: none;
     color: chocolate;
 }
+
 a:link{
     color: crimson;
 }
+
 a:visited{
    color:rgb(106, 34, 99);
+
 }
 a:hover{
     color:cyan ;
@@ -14,6 +17,7 @@ a:hover{
     text-decoration: underline;
     font-style: italic;
     font-weight: bold;
+
 }
 h1.title:hover{
     color: cadetblue;
